@@ -1,4 +1,4 @@
-<h1>DT Money<h1>
+<h1>DT Money</h1>
 
 Sistema de gerenciamento de entradas e saidas financeiras para controle de gastos.
 
